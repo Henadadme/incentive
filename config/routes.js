@@ -10,5 +10,5 @@
 
 module.exports.routes = {
 
-    'post /user/auth/login': 'ParentController.create'
+    'post /user/auth/login': 'ParentController.login'
 };
